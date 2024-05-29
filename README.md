@@ -6,10 +6,10 @@ Equipe: Gustavo Borges, Giovana, Costanza, Cauê e Vinicius
 
 Bibliotecas usadas na atividade:
 
-  pip install torch==2.2.1
-  pip install pygame
-  pip install numpy
-  pip install matplotlib
+    - pip install torch==2.2.1 
+    - pip install pygame 
+    - pip install numpy 
+    - pip install matplotlib 
 
 Análise: Como observado na imagem abaixo com o passar das partidas o algoritmo vai aprendendo a tomar melhores decisões, resultando em um maior número de pontos por partida.
 
